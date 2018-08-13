@@ -19,7 +19,7 @@ def read(*filenames, **kwargs):
 
 setup(
     name='django-egfk',
-    version=__version__,
+    version='0.0.7',
     platforms=['OS Independent'],
     description='Add django enhanced Generic Foreignkey.',
     # long_description=read('README.txt', 'CHANGES.txt'),
